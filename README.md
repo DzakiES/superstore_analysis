@@ -1,8 +1,8 @@
 # E-Commerce Margin Optimization & Discounting Strategy Analysis
 
-![Dashboard preview](assets/dashboard-preview.png)
+![Dashboard preview](Superstore_Dashboard.png)
 
-**[View the live interactive dashboard →](#)** *(replace with your published Looker Studio link)*
+**[View the live interactive dashboard →](https://datastudio.google.com/reporting/396260eb-9297-4994-97a3-cd00a90dbdc7)** *(replace with your published Looker Studio link)*
 
 ## Overview
 
