@@ -2,7 +2,7 @@
 
 ![Dashboard preview](Superstore_Dashboard.png)
 
-**[View the live interactive dashboard →](https://datastudio.google.com/reporting/396260eb-9297-4994-97a3-cd00a90dbdc7)** *(replace with your published Looker Studio link)*
+**[View the live interactive dashboard →](https://datastudio.google.com/reporting/396260eb-9297-4994-97a3-cd00a90dbdc7)**
 
 ## Overview
 
